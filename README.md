@@ -1,1 +1,1 @@
-This repository collects a lot of machine learning projects for my future work. (as a portfolio)
+This repository collects a lot of projects for my future work. (as a portfolio)
